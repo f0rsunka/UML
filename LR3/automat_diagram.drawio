@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T22:29:36.585Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" version="12.9.3" etag="AjJFFShjK-Hd18a7D2bX" type="github"><diagram id="6GmDmxkY_AZuuJkv6Ied">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-29T22:42:50.122Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="YADg_qdjfFCSgOeXMh0c" version="12.9.3" type="github">
+  <diagram id="6GmDmxkY_AZuuJkv6Ied" name="Page-1">
+    <mxGraphModel dx="1219" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-1" value="&amp;lt; state machine&amp;nbsp; &amp;gt; Система выдачи виз" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
