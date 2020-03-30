@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T22:42:50.122Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="YADg_qdjfFCSgOeXMh0c" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T22:28:11.171Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="nMJhd-31AcI0vV0gixPM" version="12.9.3" type="github">
   <diagram id="6GmDmxkY_AZuuJkv6Ied" name="Page-1">
     <mxGraphModel dx="1219" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,100 @@
           <mxGeometry x="40" y="600" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I90XgdQoUjDyXGkI2Q0D-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="30" height="30" as="geometry" />
+          <mxGeometry x="40" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-11" value="Появление необходимости в получении визы" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="100" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="375" y="150" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-16" value="получение справки с работы&lt;br&gt;получение справки из банка&lt;br&gt;получение справки с учебы&lt;br&gt;получение сканов документов&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-17" value="Сбор необходимых документов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="626" y="90" width="171" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-20" value="Создание фотографий для визы" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-21" value="Сдача биометрии" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-22" value="Оплата гос. пошлины" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-23" value="Приезд в визовый центр" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-24" value="Подача заявления на визу" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-26" value="Получение номера, по которому можно забрать визу" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-27" value="Получение визы" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="626" y="150" width="171" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-37" value="&lt;br&gt;entry/ начать сканирование&lt;br&gt;do/ сканировать&lt;br&gt;exit/ закончить сканирование" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="631.5" y="150" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-40" value="сделать копию необходимых страниц паспорта" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="631" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-46" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="169.5" as="sourcePoint" />
+            <mxPoint x="110" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="I90XgdQoUjDyXGkI2Q0D-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="169.5" as="sourcePoint" />
+            <mxPoint x="370" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-48" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I90XgdQoUjDyXGkI2Q0D-22" target="I90XgdQoUjDyXGkI2Q0D-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="660" y="774" as="sourcePoint" />
+            <mxPoint x="670" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-49" value="Если нет биометрии" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-51" value="Если есть биометрия" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I90XgdQoUjDyXGkI2Q0D-22" target="I90XgdQoUjDyXGkI2Q0D-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="720" as="sourcePoint" />
+            <mxPoint x="570" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-56" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I90XgdQoUjDyXGkI2Q0D-21" target="I90XgdQoUjDyXGkI2Q0D-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="720" as="sourcePoint" />
+            <mxPoint x="570" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-57" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I90XgdQoUjDyXGkI2Q0D-26" target="I90XgdQoUjDyXGkI2Q0D-27">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="660" as="sourcePoint" />
+            <mxPoint x="570" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I90XgdQoUjDyXGkI2Q0D-59" value="[есть необходимость в получении визы]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
