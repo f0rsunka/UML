@@ -1,1 +1,219 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T17:30:45.399Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" version="12.9.3" etag="UYeYD3JHuZy4rWu00aJl" type="github"><diagram id="hl8SxMPhMCnNeHlGYSXt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-31T22:04:19.855Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="YmHQD2GIYaWnS8kp8tN_" version="12.9.3" type="github">
+  <diagram id="hl8SxMPhMCnNeHlGYSXt" name="Page-1">
+    <mxGraphModel dx="1305" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M_HXUVhQNMok4iF-pas3-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="175" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-3" value="&amp;lt; state machine &amp;gt; Покупка тура в тур.агенстве" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="93.75" width="190" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="164.5" as="sourcePoint" />
+            <mxPoint x="120" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-10" value="обработка тур.агентом поступивших от туристов пожеланий" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="298.75" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-11" value="выбор тур.агента" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="136.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-12" value="выбор направления путешествия" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="515.96" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-14" value="выбор длительности путешествия" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="675.96" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-15" value="выбор определённого тура" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="680.96" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_HXUVhQNMok4iF-pas3-14" target="M_HXUVhQNMok4iF-pas3-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="535" as="sourcePoint" />
+            <mxPoint x="830" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-18" value="[подтверждение]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="685.96" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-25" value="[неподходящая длительность]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="680.96" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-26" value="[неподходящее направление]" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="515.96" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_HXUVhQNMok4iF-pas3-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="501" y="703.96" as="sourcePoint" />
+            <mxPoint x="501" y="720.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="680.96" />
+              <mxPoint x="520" y="670.96" />
+              <mxPoint x="540" y="660.96" />
+              <mxPoint x="580" y="660.96" />
+              <mxPoint x="610" y="680.96" />
+              <mxPoint x="610" y="703.96" />
+              <mxPoint x="600" y="730.96" />
+              <mxPoint x="580" y="740.96" />
+              <mxPoint x="560" y="740.96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="528.46" as="sourcePoint" />
+            <mxPoint x="491" y="555.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="515.96" />
+              <mxPoint x="510" y="505.96" />
+              <mxPoint x="530" y="495.96" />
+              <mxPoint x="570" y="495.96" />
+              <mxPoint x="600" y="515.96" />
+              <mxPoint x="600" y="538.96" />
+              <mxPoint x="590" y="565.96" />
+              <mxPoint x="570" y="575.96" />
+              <mxPoint x="550" y="575.96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-41" value="подача заявки на подбор тура" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="91.25" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-45" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="120" y="151.25" width="190" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-46" value="&lt;div align=&quot;left&quot;&gt;entry/ вход на сайт&lt;br&gt;do/ заполнение формы&lt;br&gt;exit/ разлогинивание с сайта&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="151.25" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-48" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="165.75" as="sourcePoint" />
+            <mxPoint x="370" y="166.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-49" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.577;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.568;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M_HXUVhQNMok4iF-pas3-11" target="M_HXUVhQNMok4iF-pas3-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="sourcePoint" />
+            <mxPoint x="439" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-50" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.54;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="M_HXUVhQNMok4iF-pas3-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="575.96" as="sourcePoint" />
+            <mxPoint x="424.5" y="610.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-51" value="[некомпетентный тур.агент]" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="135" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-52" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="175" as="sourcePoint" />
+            <mxPoint x="555" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-53" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="157.5" as="sourcePoint" />
+            <mxPoint x="491" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="145" />
+              <mxPoint x="510" y="135" />
+              <mxPoint x="530" y="125" />
+              <mxPoint x="570" y="125" />
+              <mxPoint x="600" y="145" />
+              <mxPoint x="600" y="168" />
+              <mxPoint x="590" y="195" />
+              <mxPoint x="570" y="205" />
+              <mxPoint x="550" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;entryX=0.592;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.564;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="M_HXUVhQNMok4iF-pas3-10" target="M_HXUVhQNMok4iF-pas3-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="437.55999999999995" y="434.99999999999994" as="sourcePoint" />
+            <mxPoint x="395" y="555.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-55" value="формирование и передача пожеланий от туристов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-58" value="переход к выбору деталей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-59" value="покупка тура" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-60" value="обработка банком платежа" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-61" value="транзакция" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-62" value="Отправка тур.агентом пакета документов, входящих в тур" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-65" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_HXUVhQNMok4iF-pas3-15" target="M_HXUVhQNMok4iF-pas3-59">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="679.96" as="sourcePoint" />
+            <mxPoint x="340" y="679.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-66" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="M_HXUVhQNMok4iF-pas3-61">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="189.5" y="590" as="sourcePoint" />
+            <mxPoint x="190" y="559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-67" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="495" as="sourcePoint" />
+            <mxPoint x="191" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-68" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="410" as="sourcePoint" />
+            <mxPoint x="190" y="378.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-69" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="M_HXUVhQNMok4iF-pas3-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="320" as="sourcePoint" />
+            <mxPoint x="190" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-71" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#33001A;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M_HXUVhQNMok4iF-pas3-60">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-30" y="610" as="sourcePoint" />
+            <mxPoint x="130" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="460" />
+              <mxPoint x="90" y="530" />
+              <mxPoint x="100" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-72" value="[Платёж не прошёл]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="495.96" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-73" value="[Платёж прошёл]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M_HXUVhQNMok4iF-pas3-74" value="Переход к покупке тура" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="655.96" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
