@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T14:11:00.741Z" agent="5.0 (X11)" etag="mPnYi40XOAEkNle8fo7N" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-01T16:35:00.877Z" agent="5.0 (X11)" etag="-RHOpz45tlHvbvc4GFN7" version="12.9.6" type="github">
   <diagram id="m7FMlcwkblaYLKdV_Ws4" name="Page-1">
     <mxGraphModel dx="1305" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
         <mxCell id="M6DnuSitk8M77Cm85_tT-35" value="[в наличии есть все справки]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="260" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M6DnuSitk8M77Cm85_tT-36" value="Виза готова" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="M6DnuSitk8M77Cm85_tT-36" value="Производство визы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="770" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YeFsBtRL0yMdauP77JG7-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6DnuSitk8M77Cm85_tT-3" target="M6DnuSitk8M77Cm85_tT-2">
