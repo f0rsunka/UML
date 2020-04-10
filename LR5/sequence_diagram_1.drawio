@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T14:03:16.676Z" agent="5.0 (X11)" etag="sfFf4DNq1BUhueicG4B7" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-10T15:06:19.778Z" agent="5.0 (X11)" etag="9YhcQinz56xr4hv-5-To" version="12.9.10" type="github">
   <diagram id="BwbKmep2h5bGMblftUvO" name="Page-1">
     <mxGraphModel dx="1422" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,31 +226,33 @@
           <mxGeometry x="367.5" y="450" width="152.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuVLLFe_GyLbmor-yIGp-9" value="[пожелания сформулированы чётко]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="410" width="230" height="30" as="geometry" />
+          <mxGeometry x="355" y="405" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FuVLLFe_GyLbmor-yIGp-10" value="" style="endArrow=classic;html=1;entryX=-0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eJPUeLMYaRIpT0Y_iR7e-30">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="FuVLLFe_GyLbmor-yIGp-16" value="передаются" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FuVLLFe_GyLbmor-yIGp-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="610" as="sourcePoint" />
+            <mxPoint x="930" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FuVLLFe_GyLbmor-yIGp-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="345" y="430" as="sourcePoint" />
+            <mxPoint x="930" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FuVLLFe_GyLbmor-yIGp-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=-0.033;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eJPUeLMYaRIpT0Y_iR7e-30">
+          <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="350" y="430" as="sourcePoint" />
-            <mxPoint x="480" y="510" as="targetPoint" />
+            <mxPoint x="510" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="490" />
-              <mxPoint x="460" y="490" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FuVLLFe_GyLbmor-yIGp-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="430" as="sourcePoint" />
-            <mxPoint x="926" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="780" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FuVLLFe_GyLbmor-yIGp-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="610" as="sourcePoint" />
-            <mxPoint x="929" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
